@@ -1,6 +1,6 @@
-# ShoppersNest eCommerce
+# ShoppersNest eCommerce Platform
 
-Welcome to ShoppersNest eCommerce! This is a full-fledged eCommerce platform offering seamless shopping experience for users.
+Welcome to ShoppersNest eCommerce Platform! This project is a comprehensive eCommerce platform designed to provide users with a seamless shopping experience.
 
 ## Features
 - User authentication and authorization
