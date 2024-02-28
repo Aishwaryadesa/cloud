@@ -10,8 +10,7 @@ Welcome to ShoppersNest eCommerce Platform! This project is a comprehensive eCom
 
 ## Installation
 1. **Clone the repository:**
-git clone https://github.com/Aishwaryadesa/shoppersnest.git
-
+git clone https://github.com/Aishwaryadesa/cloud.git
 2. **Navigate to project directory:**
 cd shoppersnest
 
